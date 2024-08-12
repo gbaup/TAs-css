@@ -1,0 +1,10 @@
+p {
+    color: white;
+    background-color: green;
+    font-size: 18px;
+}
+
+.btn-principal{
+    background-color: orange;
+    font: 18px;
+}
